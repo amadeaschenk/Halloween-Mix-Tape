@@ -1,5 +1,4 @@
-body {background-color: #acaf7e}
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
+body {background-color: #acaf7e; margin: 50px;}
 h1 {font-family: 'Montserrat', sans-serif; color: black}
 h2 {font-family: 'Montserrat', sans-serif; color: black}
 h3 {font-family: 'Montserrat', sans-serif; color: black}
@@ -9,5 +8,6 @@ h3 {font-family: 'Montserrat', sans-serif; color: black}
 
 :visited{color:darkgreen}
 dl{font-family: sans-serif;; color: black}
-
+dd{width: 300px;
+padding: 50px;}
 img{width:100%;}
